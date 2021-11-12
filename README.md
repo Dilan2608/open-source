@@ -56,6 +56,7 @@ If you would like to know more about the overall project that lead to this check
 ![Screenshot 2021-11-12 at 12 00 52](https://user-images.githubusercontent.com/93998190/141464177-5ecc3bd1-e126-4ade-83fa-d6c6c09800d8.png)
 # 
 Explanation...
+
 My read me file is similar to a project brief that sets the reader a challenge. This challenge is for the audience to create something that I will fit into a visual world that I am making and eventually presenting as a 3D animation. This thing can be anything, an object, video, image, text and so on.
 The idea is that in the end I will have an animation of characters in a world where there are references and "easter eggs" to my creative community's artwork. The art contributions will become things like posters/graffiti on walls, stickers on surfaces, objects in a scene, characters etc.
 I added animations to the read.me file that fit the computing theme. I converted 3D renders I made into something called ASCII art which converts images/animations into code text using a character encoding standard for electronic communication.
